@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648229117 source:c:\users\user\downloads\se04_1094841\parttimeemployeeimp.cpp
+	"partTimeEmployee.h"
+	"personType.h"
+	<iostream>
+
+1648255173 c:\users\user\downloads\se04_1094841\parttimeemployee.h
+	"personType.h"
+	<iostream>
+
+1648255044 c:\users\user\downloads\se04_1094841\persontype.h
+	<iostream>
+
+1648229051 source:c:\users\user\downloads\se04_1094841\persontypeimp.cpp
+	<iostream>
+	"personType.h"
+
+1648255282 source:c:\users\user\downloads\se04_1094841\main.cpp
+	<iostream>
+	<string>
+	"partTimeEmployee.h"
+
