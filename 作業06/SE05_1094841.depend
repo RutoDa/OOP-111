@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1650036234 source:c:\users\user\downloads\se05_1094841\ptrmembervartype.cpp
-	<iostream>
-	"ptrMemberVarType.h"
-	<assert.h>
-
-1650035053 c:\users\user\downloads\se05_1094841\ptrmembervartype.h
-
